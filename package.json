@@ -1,0 +1,28 @@
+{
+  "name": "hackerankchallenges",
+  "version": "1.0.0",
+  "description": "HackerankChallenges",
+  "main": "hackerRank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon hackerRank.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kizadek/HackerankChallenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kizadek/HackerankChallenges/issues"
+  },
+  "homepage": "https://github.com/kizadek/HackerankChallenges#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
